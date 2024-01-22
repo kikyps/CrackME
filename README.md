@@ -24,7 +24,7 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 - Very strong SSL Pinning, "HTTP Capture Detection is enough and this will continue to be developed, but if needed it may be added in the future"
 
 ## 🔗 Links
-[![Discussion](https://img.shields.io/badge/join_the_discussion-000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crkme_xyz)
+[![Discussion](https://img.shields.io/badge/join_the_discussion-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crkme_xyz)
 
 # Interested?
 
