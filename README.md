@@ -5,7 +5,6 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 
 # Protection Feature Provided
 
-- Realtime Protection
 - Anti Hooking
 - Dynamic tamper detection (e.g Code Patching)
 - Anti FRIDA
@@ -16,8 +15,14 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 - Root Detection
 - Certificate Signature Integrity
 - Content Integrity
-- Using Cryptography
 - And much more.
+
+# Protection Mechanism
+
+- Realtime Protection
+- Protection is timeless and strictly protects content 360 degrees
+- Using Cryptography
+- Obfuscated Methods and Strings
 
 # TODO
 - Custom Activity for HTTP capture detection
