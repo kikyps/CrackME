@@ -48,8 +48,9 @@ But we still provide the root detection feature as an option and feature support
 \
 **3. Custom ROM User Friendly (Unlocked Bootloader)**
 
-> Sometimes some security framework providers detect unlocked bootloaders, to prevent unwanted things, of course this is not friendly for users who like to customize their smartphones, of course as in the first point, not all users with root or unlocked bootloaders have bad aim.
+> Sometimes some security framework providers detect an unlocked bootloader, to prevent unwanted things, of course this is not friendly for users who like to customize their smartphones.
 
+**`As in the first point, not all users with root or unlocked bootloader have bad intentions.`**
 
 ## 🔗 Links
 [![Discussion](https://img.shields.io/badge/join_the_discussion-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crkme_xyz)
