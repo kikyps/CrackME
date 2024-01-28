@@ -29,6 +29,28 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 - Emulator Detection, is it needed?
 - Very strong SSL Pinning, "HTTP Capture Detection is enough and this will continue to be developed, but if needed it may be added in the future"
 
+# FAQ
+
+**1. Root User Friendly**
+
+> Sometimes some security framework providers block root users to prevent unwanted things, of course this will have a bad impact on root users who do not have a cyber crime background and have bad intentions for the application user, it is true that detecting root can prevent hackers from moving forward to carry out the action. but not all root users have the same goals and characteristics.
+
+`So with this we really pay attention to security gaps without needing to block access for certain users.
+But we still provide the root detection feature as an option and feature support if our clients need it.`\
+\
+**`So with our project, root users with malicious intent will not be useful even if they have root access`**\
+\
+**2. Friendly with other applications and piracy tools**
+
+> Sometimes some security framework providers block pirate tools or applications to prevent unwanted things, of course this is not friendly in our opinion.
+
+**`Therefore our goal is that all such tools will be useless for our framework, there is no need to blindly block other applications that are not desired.`**\
+\
+**3. Custom ROM User Friendly (Unlocked Bootloader)**
+
+> Sometimes some security framework providers detect unlocked bootloaders, to prevent unwanted things, of course this is not friendly for users who like to customize their smartphones, of course as in the first point, not all users with root or unlocked bootloaders have bad aim.
+
+
 ## 🔗 Links
 [![Discussion](https://img.shields.io/badge/join_the_discussion-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crkme_xyz)
 
