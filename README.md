@@ -52,6 +52,10 @@ But we still provide the root detection feature as an option and feature support
 
 **`As in the first point, not all users with root or unlocked bootloader have bad intentions.`**
 
+## Lessons
+
+Of course we are aware and care about the security, authenticity, robustness in our systems, so we continue to maintain and research modern vulnerabilities to continue to maintain our security. Carrying out rigorous analysis and testing from various angles to provide the best service for our users.
+
 ## 🔗 Links
 [![Discussion](https://img.shields.io/badge/join_the_discussion-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crkme_xyz)
 
