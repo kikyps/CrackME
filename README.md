@@ -42,7 +42,7 @@ But we still provide the root detection feature as an option and feature support
 \
 **2. Friendly with other applications and piracy tools**
 
-> Sometimes some security framework providers block pirate tools or applications to prevent unwanted things, of course this is not friendly in our opinion.
+> Sometimes some security framework providers block piracy tools or applications to prevent unwanted things, of course this is not friendly in our opinion.
 
 **`Therefore our goal is that all such tools will be useless for our framework, there is no need to blindly block other applications that are not desired.`**\
 \
