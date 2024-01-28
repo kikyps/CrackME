@@ -23,6 +23,7 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 - Protection is timeless and strictly protects content 360 degrees
 - Using Cryptography
 - Obfuscated Methods and Strings
+- Works fully offline
 
 # TODO
 - Custom Activity for HTTP capture detection
