@@ -35,10 +35,10 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 Protecting the application's business logic.
 
 (+) With Control Flow Obfuscation!
-<img src='img/cfo.jpg' width='720'>
+<img src='img/cfo.jpg' width='120'>
 
 (-) Without Control Flow Obfuscation!
-<img src='img/wcfo.jpg' width='720'>
+<img src='img/wcfo.jpg' width='120'>
 
 # FAQ
 
