@@ -11,7 +11,8 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 - Anti Memory Dumping
 - Anti Debugging (Java & Native)
 - HTTP Capture Detection
-- String Encryption
+- String Encryption (Java Layer Protection)
+- Control Flow Obfuscation (Java Layer Protection)
 - Root Detection
 - Certificate Signature Integrity
 - Content Integrity
