@@ -36,12 +36,12 @@ Protecting the application's business logic.
 
 <div style="display: flex;">
     <div style="text-align: center; margin-right: 60px;">
-        <p>(+) With Control Flow Obfuscation!</p>
         <img src="img/cfo.jpg" alt="(+) With Control Flow Obfuscation!" style="width: 300px;">
+        <p>(+) With Control Flow Obfuscation!</p>
     </div>
     <div style="text-align: center;">
-        <p>(-) Without Control Flow Obfuscation!</p>
         <img src="img/wcfo.jpg" alt="(-) Without Control Flow Obfuscation!" style="width: 300px;">
+        <p>(-) Without Control Flow Obfuscation!</p>
     </div>
 </div>
 
