@@ -30,6 +30,16 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 - Emulator Detection, is it needed?
 - Very strong SSL Pinning, "HTTP Capture Detection is enough and this will continue to be developed, but if needed it may be added in the future"
 
+### HOT UPDATE 🔥
+#### Control Flow Obfuscation (BETA)
+Protecting the application's business logic.
+
+(+) With Control Flow Obfuscation!
+![With CFO](img/cfo.jpg)
+
+(-) Without Control Flow Obfuscation!
+![Without CFO](img/wcfo.jpg)
+
 # FAQ
 
 **1. Root User Friendly**
