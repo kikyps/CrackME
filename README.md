@@ -34,18 +34,17 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 #### Control Flow Obfuscation (BETA)
 Protecting the application's business logic.
 
-<div style="display: flex;">
-    <div style="text-align: center; margin-right: 60px;">
-        <img src="img/cfo.jpg" alt="(+) With Control Flow Obfuscation!" style="width: 300px;">
+<div>
+    <div style="float: left; margin-right: 50px; text-align: center;">
         <p>(+) With Control Flow Obfuscation!</p>
+        <img src="img/cfo.jpg" alt="(+) With Control Flow Obfuscation!" style="width: 300px;">
     </div>
-    <div style="text-align: center;">
-        <img src="img/wcfo.jpg" alt="(-) Without Control Flow Obfuscation!" style="width: 300px;">
+    <div style="float: left; text-align: center;">
         <p>(-) Without Control Flow Obfuscation!</p>
+        <img src="img/wcfo.jpg" alt="(-) Without Control Flow Obfuscation!" style="width: 300px;">
     </div>
+    <div style="clear: both;"></div>
 </div>
-
-
 
 # FAQ
 
