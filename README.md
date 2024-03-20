@@ -35,7 +35,7 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 Protecting the application's business logic.
 
 <div style="display: flex;">
-    <img src="img/cfo.jpg" style="width: 300px; margin-right: 100px;">
+    <img src="img/cfo.jpg" style="width: 300px; margin-right: 10px;">
     <img src="img/wcfo.jpg" style="width: 300px;">
 </div>
 
