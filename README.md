@@ -26,11 +26,6 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 - Obfuscated Methods and Strings
 - Works fully offline
 
-# TODO
-- Custom Activity for HTTP capture detection
-- Emulator Detection, is it needed?
-- Very strong SSL Pinning, "HTTP Capture Detection is enough and this will continue to be developed, but if needed it may be added in the future"
-
 ### HOT UPDATE 🔥
 #### Control Flow Obfuscation (BETA)
 Protecting the application's business logic.
@@ -39,6 +34,11 @@ Protecting the application's business logic.
     <img src="img/cfo.jpg" style="width: 300px; margin-right: 10px;">
     <img src="img/wcfo.jpg" style="width: 300px;">
 </div>
+
+# TODO
+- Custom Activity for HTTP capture detection
+- Emulator Detection, is it needed?
+- Very strong SSL Pinning, "HTTP Capture Detection is enough and this will continue to be developed, but if needed it may be added in the future"
 
 # FAQ
 
@@ -85,6 +85,19 @@ But we still provide the root detection feature as an option and feature support
 > Sometimes some security framework providers detect an unlocked bootloader, to prevent unwanted things, of course this is not friendly for users who like to customize their smartphones.
 
 **`As in the first point, not all users with root or unlocked bootloader have bad intentions.`**
+
+## Future Plan
+
+- Integrating as an Android Studio plugin. (The advantage is being able to use additional features and customize feature requirements directly in the application development).
+- The implementation of this framework will be applied across multiple platforms. Protection can be applied through:
+    + Integrating as an Android Studio plugin.
+    + Android App.
+    + Web App.
+    + Desktop App.
+- In the future, the project will be expanded with the hardening of the iOS application. At the moment, the framework only works for Android applications.
+
+
+#### To achieve all of that requires extra time, especially since the developer is working alone and there are limitations with iOS devices.
 
 ## Lessons
 
