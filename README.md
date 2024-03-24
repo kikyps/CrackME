@@ -65,10 +65,19 @@ But we still provide the root detection feature as an option and feature support
 
 **4. Less RAM Consumption**
 
-Rich in features but still runs efficiently with minimal RAM usage without memory leaks
+Rich in features but still runs efficiently with minimal RAM usage without memory leaks.
 
 https://github.com/kikyps/CrackME/assets/38471660/8aebd3ca-e681-4804-b8c9-6ccb92a801f0
 
+**`Testing carried out in debug mode in theory at release should be lower than the results in the video.`**
+
+**5. Does not affect application performance**
+
+We employ the most effective methods to maintain the performance of the application. This framework ensures that the application remains fast and preserves the speed of app launch.
+
+> We don't use Shell/ClassLoader because we find it less efficient and it slows down the application startup. Decrypting and loading the dex files take up considerable time, which contributes to the delay. Another drawback is that shells can be easily repackaged.
+
+In doing so, we opt for another approach to safeguard your Java source code, protecting it from the exposure of application business logic and the authenticity of its code.
 
 ## Lessons
 
