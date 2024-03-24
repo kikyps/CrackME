@@ -12,7 +12,7 @@ Android RASP project by KiKyps, Protect APK from any vulnerabilities.
 - Anti Debugging (Java & Native)
 - HTTP Capture Detection
 - String Encryption (Java Layer Protection)
-- Control Flow Obfuscation (Java Layer Protection)
+- Control Flow Obfuscation (Java Layer Protection) **[NEW]**
 - Root Detection
 - Certificate Signature Integrity
 - Content Integrity
@@ -42,7 +42,30 @@ Protecting the application's business logic.
 
 # FAQ
 
-**1. Root User Friendly**
+**1. Support Most Android Version**
+
+In theory, it is compatible with Android versions 4.1 to 14. However, it has been tested and performs well on Android 5.0 to 14.
+
+- Support Android 4.1 - 14 (API level 16 - 34).
+- Support armeabi-v7a, arm64-v8a, x86 and x86_64.
+
+**2. Less RAM Consumption**
+
+Rich in features but still runs efficiently with minimal RAM usage without memory leaks.
+
+https://github.com/kikyps/CrackME/assets/38471660/8aebd3ca-e681-4804-b8c9-6ccb92a801f0
+
+**`Testing carried out in debug mode in theory at release should be lower than the results in the video.`**
+
+**3. Does not affect application performance**
+
+We employ the most effective methods to maintain the performance of the application. This framework ensures that the application remains fast and preserves the speed of app launch.
+
+> We don't use Shell/ClassLoader because we find it less efficient and it slows down the application startup. Decrypting and loading the dex files take up considerable time, which contributes to the delay. Another drawback is that shells can be easily repackaged.
+
+In doing so, we opt for another approach to safeguard your Java source code, protecting it from the exposure of application business logic and the authenticity of its code.
+
+**4. Root User Friendly**
 
 > Sometimes some security framework providers block root users to prevent unwanted things, of course this will have a bad impact on root users who do not have a cyber crime background and have bad intentions for the application user, it is true that detecting root can prevent hackers from moving forward to carry out the action. but not all root users have the same goals and characteristics.
 
@@ -51,33 +74,17 @@ But we still provide the root detection feature as an option and feature support
 \
 **`So with our project, root users with malicious intent will not be useful even if they have root access`**\
 \
-**2. Friendly with other applications and piracy tools**
+**5. Friendly with other applications and piracy tools**
 
 > Sometimes some security framework providers block piracy tools or applications to prevent unwanted things, of course this is not friendly in our opinion.
 
 **`Therefore our goal is that all such tools will be useless for our framework, there is no need to blindly block other applications that are not desired.`**\
 \
-**3. Custom ROM User Friendly (Unlocked Bootloader)**
+**6. Custom ROM User Friendly (Unlocked Bootloader)**
 
 > Sometimes some security framework providers detect an unlocked bootloader, to prevent unwanted things, of course this is not friendly for users who like to customize their smartphones.
 
 **`As in the first point, not all users with root or unlocked bootloader have bad intentions.`**
-
-**4. Less RAM Consumption**
-
-Rich in features but still runs efficiently with minimal RAM usage without memory leaks.
-
-https://github.com/kikyps/CrackME/assets/38471660/8aebd3ca-e681-4804-b8c9-6ccb92a801f0
-
-**`Testing carried out in debug mode in theory at release should be lower than the results in the video.`**
-
-**5. Does not affect application performance**
-
-We employ the most effective methods to maintain the performance of the application. This framework ensures that the application remains fast and preserves the speed of app launch.
-
-> We don't use Shell/ClassLoader because we find it less efficient and it slows down the application startup. Decrypting and loading the dex files take up considerable time, which contributes to the delay. Another drawback is that shells can be easily repackaged.
-
-In doing so, we opt for another approach to safeguard your Java source code, protecting it from the exposure of application business logic and the authenticity of its code.
 
 ## Lessons
 
