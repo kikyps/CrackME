@@ -63,6 +63,13 @@ But we still provide the root detection feature as an option and feature support
 
 **`As in the first point, not all users with root or unlocked bootloader have bad intentions.`**
 
+**4. Less RAM Consumption**
+
+Rich in features but still runs efficiently with minimal RAM usage without memory leaks
+
+https://github.com/kikyps/CrackME/assets/38471660/8aebd3ca-e681-4804-b8c9-6ccb92a801f0
+
+
 ## Lessons
 
 Of course we are aware and care about the security, authenticity, robustness in our systems, so we continue to maintain and research modern vulnerabilities to continue to maintain our security. Carrying out rigorous analysis and testing from various angles to provide the best service for our users.
