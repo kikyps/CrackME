@@ -1,6 +1,6 @@
 # Garuda Defender
 
-<img src="[URL_Gambar](https://github.com/kikyps/CrackME/assets/38471660/314424ca-ab29-44c1-b06c-6e65bbf51678)" alt="Garuda Defender" width="250" height="250">
+![Logo]([https://example.com/logo.png](https://github.com/kikyps/CrackME/assets/38471660/314424ca-ab29-44c1-b06c-6e65bbf51678)){width=250px height=250px}
 
 Android RASP project by KiKyps, Protect Mobile App from any vulnerabilities.
 
