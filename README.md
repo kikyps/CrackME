@@ -2,6 +2,7 @@
 
 <img src="https://github.com/kikyps/CrackME/assets/38471660/ab822916-1c6f-41a7-b625-bbecc72c5d2a" alt="Garuda Defender" width="250" height="250">
 
+##
 Android RASP project by KiKyps, Protect Mobile App from any vulnerabilities.
 
 # Protection Feature Provided
@@ -100,6 +101,8 @@ But we still provide the root detection feature as an option and feature support
 
 
 #### To achieve all of that requires extra time, especially since the developer is working alone and there are limitations with iOS devices.
+
+### This project is currently under development to be widely and easily usable.
 
 ## Lessons
 
