@@ -48,6 +48,7 @@ In theory, it is compatible with Android versions 4.1 to 14. However, it has bee
 
 - Support Android 4.1 - 14 (API level 16 - 34).
 - Support armeabi-v7a, arm64-v8a, x86 and x86_64.
+- Support Android Framework App (Flutter, React Native)
 
 **2. Less RAM Consumption**
 
