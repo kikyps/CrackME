@@ -31,10 +31,9 @@ Android RASP project by KiKyps, Protect Mobile App from any vulnerabilities.
 #### Control Flow Obfuscation (BETA)
 Protecting the application's business logic.
 
-<div style="display: flex;">
-    <img src="img/cfo.jpg" style="width: 300px; margin-right: 10px;">
-    <img src="img/wcfo.jpg" style="width: 300px;">
-</div>
+|                      Before                    |                      After                    |
+| :--------------------------------------------: | :-------------------------------------------: |
+| <img src="img/wcfo.jpg" style="width: 300px;"> | <img src="img/cfo.jpg" style="width: 300px;"> |
 
 # TODO
 - Custom Activity for HTTP capture detection
