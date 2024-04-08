@@ -35,6 +35,10 @@ Protecting the application's business logic.
 | :--------------------------------------------: | :-------------------------------------------: |
 | <img src="img/wcfo.jpg" style="width: 300px;"> | <img src="img/cfo.jpg" style="width: 300px;"> |
 
+#### JADX failed to compile
+
+<img src="img/fail jadx.jpg" style="width: 300px;">
+
 # TODO
 - Custom Activity for HTTP capture detection
 - Emulator Detection, is it needed?
