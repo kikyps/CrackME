@@ -37,7 +37,7 @@ Protecting the application's business logic.
 
 #### JADX failed to compile
 
-<img src="img/fail%20jadx.jpg" style="width: 300px;">
+<img src="img/fail&nbsp;jadx.jpg" style="width: 300px;">
 
 # TODO
 - Custom Activity for HTTP capture detection
