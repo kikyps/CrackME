@@ -60,6 +60,8 @@ In theory, it is compatible with Android versions 4.1 to 14. However, it has bee
 
 Rich in features but still runs efficiently with minimal RAM usage without memory leaks.
 
+<img src="img/memory.gif" style="width: 900px;">
+
 https://github.com/kikyps/CrackME/assets/38471660/8aebd3ca-e681-4804-b8c9-6ccb92a801f0
 
 **`Testing carried out in debug mode in theory at release should be lower than the results in the video.`**
