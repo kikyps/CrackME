@@ -27,7 +27,7 @@ Android RASP project by KiKyps, Protect Mobile App from any vulnerabilities.
 
 #### Network Communication Protection
 - HTTP Capture Detection
-- SSL Pinning (Coming Soon)
+- SSL Pinning (Coming Soon), Strong and Private built from scratch and is not like existing certificate pinner libraries
 
 # Protection Mechanism
 
