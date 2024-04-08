@@ -6,18 +6,28 @@ Android RASP project by KiKyps, Protect Mobile App from any vulnerabilities.
 
 # Protection Feature Provided
 
+#### Runtime Application Self-Protection
 - Anti Hooking
 - Dynamic tamper detection (e.g Code Patching)
 - Anti FRIDA
-- Anti Memory Dumper
+- Memory Protection
 - Anti Debugging (Java & Native)
-- HTTP Capture Detection
-- String Encryption (Java Layer Protection)
-- Control Flow Obfuscation (Java Layer Protection) **[NEW]**
 - Root Detection
 - Certificate Signature Integrity
 - Content Integrity
-- And much more.
+- Emulator/Virtual Machine Detection (Coming Soon)
+- Anti Screen Capturing/Screen Sharing (Coming Soon)
+- Fake GPS Detection (Coming Soon)
+- Game Engine Protection "Anti Cheat" (Coming Soon)
+
+#### Code Protection
+- String Encryption (Java Layer Protection)
+- Control Flow Obfuscation (Java Layer Protection) **[NEW]**
+- Obfuscate method and field names (Coming Soon)
+
+#### Network Communication Protection
+- HTTP Capture Detection
+- SSL Pinning (Coming Soon)
 
 # Protection Mechanism
 
@@ -39,19 +49,26 @@ Protecting the application's business logic.
 
 <img src="img/fail jadx.png" style="width: 900px;">
 
-#### A demo for Anti HTTP Capture
-
-<img src="https://drive.google.com/uc?id=1KsJCxdwSROPzCdoByPS2t5IyFRjG5zPa" style="width: 900px;">
 
 <details close>
   <summary>A demo for Anti HTTP Capture</summary>
-<video width="630" src="img/antihttpcapture.mp4"></video>
+
+https://github.com/kikyps/GarudaDefender/assets/38471660/3a20a2d9-1193-4bb2-91c0-d391824741ca
+
+### Demo for Android? You can test it yourself directly!
+
 </details>
 
 # TODO
 - Custom Activity for HTTP capture detection
-- Emulator Detection, is it needed?
+- Emulator/Virtual Machine Detection, is it needed?
 - Very strong SSL Pinning, "HTTP Capture Detection is enough and this will continue to be developed, but if needed it may be added in the future"
+- Anti Screen Capturing/Screen Sharing
+- Fake GPS Detection
+
+#### NOTE
+
+The emulator detection feature is actually not necessary because even though the application is running on a virtual machine and RASP detects illegal activity, the framework will do what it has to do, so actually there is no need to block the emulator/virtual machine because the RASP feature will protect against realtime attacks, but if There are many requests that the emulator/virtual machine detection feature will still be released.
 
 ### This project is currently under development to be widely and easily usable.
 
