@@ -43,6 +43,11 @@ Protecting the application's business logic.
 
 <img src="https://drive.google.com/uc?id=1KsJCxdwSROPzCdoByPS2t5IyFRjG5zPa" style="width: 900px;">
 
+<details close>
+  <summary>A demo for Anti HTTP Capture</summary>
+<video width="630" src="img/antihttpcapture.mp4"></video>
+</details>
+
 # TODO
 - Custom Activity for HTTP capture detection
 - Emulator Detection, is it needed?
