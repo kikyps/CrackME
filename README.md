@@ -35,7 +35,7 @@ Protecting the application's business logic.
 | :--------------------------------------------: | :-------------------------------------------: |
 | <img src="img/wcfo.jpg" style="width: 300px;"> | <img src="img/cfo.jpg" style="width: 300px;"> |
 
-#### JADX failed to compile
+#### JADX failed to decompile
 
 <img src="img/fail jadx.png" style="width: 750px;">
 
