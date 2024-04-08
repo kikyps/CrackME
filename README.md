@@ -39,6 +39,10 @@ Protecting the application's business logic.
 
 <img src="img/fail jadx.png" style="width: 900px;">
 
+#### A demo for Anti HTTP Capture
+
+<img src="https://drive.google.com/uc?export=view&id=1KsJCxdwSROPzCdoByPS2t5IyFRjG5zPa" style="width: 900px;">
+
 # TODO
 - Custom Activity for HTTP capture detection
 - Emulator Detection, is it needed?
