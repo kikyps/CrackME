@@ -125,7 +125,7 @@ But we still provide the root detection feature as an option and feature support
 This framework does not cause false detection as a virus, of course this will increase the success rate of submitting applications to the Playstore
 
 <details close>
-  <summary><a href="https://www.virustotal.com/gui/file/f1afc3ba427d45eee38a48ff1cb55479422b35e151fb5b97ff6de76cf557a84b/detection">Check Result</a></summary>
+  <summary><a href="https://www.virustotal.com/gui/file/f1afc3ba427d45eee38a48ff1cb55479422b35e151fb5b97ff6de76cf557a84b/detection" target="_blank">Check Result</a></summary>
 
 <img src="img/Screenshot 2024-04-09 113511.png" style="width: 900px;">
 
