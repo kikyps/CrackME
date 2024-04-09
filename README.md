@@ -29,6 +29,15 @@ Android RASP project by KiKyps, Protect Mobile App from any vulnerabilities.
 - HTTP Capture Detection
 - SSL Pinning (Coming Soon), Strong and Private built from scratch and is not like existing certificate pinner libraries
 
+<details close>
+  <summary>A demo for Anti HTTP Capture</summary>
+
+https://github.com/kikyps/GarudaDefender/assets/38471660/3a20a2d9-1193-4bb2-91c0-d391824741ca
+
+### Demo for Android? You can test it yourself directly!
+
+</details>
+
 # Protection Mechanism
 
 - Realtime Protection
@@ -48,16 +57,6 @@ Protecting the application's business logic.
 #### JADX failed to decompile
 
 <img src="img/fail jadx.png" style="width: 900px;">
-
-
-<details close>
-  <summary>A demo for Anti HTTP Capture</summary>
-
-https://github.com/kikyps/GarudaDefender/assets/38471660/3a20a2d9-1193-4bb2-91c0-d391824741ca
-
-### Demo for Android? You can test it yourself directly!
-
-</details>
 
 # TODO
 - Custom Activity for HTTP capture detection
@@ -118,6 +117,25 @@ But we still provide the root detection feature as an option and feature support
 > Sometimes some security framework providers detect an unlocked bootloader, to prevent unwanted things, of course this is not friendly for users who like to customize their smartphones.
 
 **`As in the first point, not all users with root or unlocked bootloader have bad intentions.`**
+
+**7. No threats or viruses detected**
+
+<img src="img/VirusTotal.png" style="width: 250px;">
+
+This framework does not cause false detection as a virus, of course this will increase the success rate of submitting applications to the Playstore
+
+<details close>
+  <summary><a href="https://www.virustotal.com/gui/file/f1afc3ba427d45eee38a48ff1cb55479422b35e151fb5b97ff6de76cf557a84b/detection">Check Result</a></summary>
+
+<img src="img/Screenshot 2024-04-09 113511.png" style="width: 900px;">
+
+</details>
+
+**Download Demo APK**
+
+<a href="https://github.com/kikyps/GarudaDefender/raw/main/CrackME.apk">
+    <img src="img/download_android_app_new.png" alt="Download Demo" style="width: 200px;">
+</a>
 
 ## Future Plan
 
