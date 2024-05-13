@@ -10,9 +10,9 @@ Android RASP project by KiKyps, Protect Mobile App from any vulnerabilities.
 - Anti Hooking
 - Dynamic tamper detection (e.g Code Patching)
 - Anti FRIDA
-- Memory Protection
 - Anti Debugging (Java & Native)
 - Root Detection
+- GameGuardian Detection
 - Certificate Signature Integrity
 - Content Integrity
 - Emulator/Virtual Machine Detection (Coming Soon)
@@ -47,7 +47,7 @@ https://github.com/kikyps/GarudaDefender/assets/38471660/3a20a2d9-1193-4bb2-91c0
 - Works fully offline
 
 ### HOT UPDATE 🔥
-#### Control Flow Obfuscation (BETA)
+#### 1. Control Flow Obfuscation (BETA)
 Protecting the application's business logic.
 
 |                      Before                    |                      After                    |
@@ -57,6 +57,8 @@ Protecting the application's business logic.
 #### JADX failed to decompile
 
 <img src="img/fail jadx.png" style="width: 900px;">
+
+#### 2. GameGuardian Detection
 
 # TODO
 - Custom Activity for HTTP capture detection
