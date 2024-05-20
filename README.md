@@ -12,13 +12,13 @@ Android RASP project by KiKyps, Protect Mobile App from any vulnerabilities.
 - Anti FRIDA
 - Anti Debugging (Java & Native)
 - Root Detection
-- GameGuardian Detection
 - Certificate Signature Integrity
 - Content Integrity
 - Emulator/Virtual Machine Detection (Coming Soon)
 - Anti Screen Capturing/Screen Sharing (Coming Soon)
 - Fake GPS Detection (Coming Soon)
 - Game Engine Protection "Anti Cheat" (Coming Soon)
+- GameGuardian Detection (Coming Soon)
 
 #### Code Protection
 - String Encryption (Java Layer Protection)
@@ -57,8 +57,6 @@ Protecting the application's business logic.
 #### JADX failed to decompile
 
 <img src="img/fail jadx.png" style="width: 900px;">
-
-#### 2. GameGuardian Detection
 
 # TODO
 - Custom Activity for HTTP capture detection
